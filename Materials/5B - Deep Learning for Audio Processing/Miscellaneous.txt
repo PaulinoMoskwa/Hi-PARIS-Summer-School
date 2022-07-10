@@ -1,0 +1,13 @@
+======================================================================================
+ WaveNet: A generative model for raw audio
+--------------------------------------------------------------------------------------
+ https://www.deepmind.com/blog/wavenet-a-generative-model-for-raw-audio
+======================================================================================
+ Demucs - Source separation (GitHub)
+--------------------------------------------------------------------------------------
+ https://github.com/facebookresearch/demucs
+======================================================================================
+ Fourier transform and spectrogram
+--------------------------------------------------------------------------------------
+ https://www.google.com/search?q=fourier+transform+and+spectrogram&tbm=isch&ved=2ahUKEwj6g5WWle74AhVDYPEDHSjNBnUQ2-cCegQIABAA&oq=fourier+transform+and+spectrogram&gs_lcp=CgNpbWcQAzIECCMQJzoGCAAQHhAHOgQIABAeOgsIABCABBCxAxCDAToICAAQgAQQsQM6BQgAEIAEOggIABCxAxCDAToECAAQAzoECAAQEzoICAAQHhAIEBNQuQhYujFgpzJoAHAAeACAAVKIAf0RkgECMzSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=97DKYrqsAcPAxc8PqJqbqAc&bih=688&biw=1536
+======================================================================================
