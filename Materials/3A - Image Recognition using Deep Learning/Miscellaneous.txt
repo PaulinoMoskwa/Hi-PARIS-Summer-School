@@ -1,0 +1,13 @@
+======================================================================================
+ GitHub Notes
+--------------------------------------------------------------------------------------
+ https://github.com/pranjalchaubey/Deep-Learning-Notes
+======================================================================================
+ Deep Learning and Neural Networks with Python and Pytorch
+--------------------------------------------------------------------------------------
+ https://pythonprogramming.net/training-deep-learning-neural-network-pytorch/
+======================================================================================
+ Notebook on Colab
+--------------------------------------------------------------------------------------
+ https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/62840b1eece760d5e42593187847261f/transfer_learning_tutorial.ipynb#scrollTo=7NfzhbCPmTqB
+======================================================================================
